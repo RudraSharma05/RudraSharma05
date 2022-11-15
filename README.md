@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RudraSharma05
+- 👋 Hi, I’m @Rudra
 - 👀 I’m interested in Tech and software
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking for friends or mentor to guide me on my software engineering journey 
